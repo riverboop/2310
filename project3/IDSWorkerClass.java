@@ -1,5 +1,3 @@
-import textbook.PrioritizedNetworkTraffic;
-
 public class IDSWorkerClass {
 
 	public static void main(String[] args) {
